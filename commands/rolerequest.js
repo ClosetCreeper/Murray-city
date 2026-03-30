@@ -6,7 +6,7 @@ const {
   EmbedBuilder,
 } = require('discord.js');
 
-const ROLE_REQUEST_CHANNEL_ID = '1481336698901102722';
+const ROLE_REQUEST_CHANNEL_ID = '1487992443852034252';
 
 module.exports = {
   data: new SlashCommandBuilder()
